@@ -1,0 +1,19 @@
+name: gpt
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - numpy==1.21
+  - biopython
+  - pytorch
+  - python-lsp-server
+  - jupytext
+  - torchvision
+  - ipython
+  - ipywidgets
+  - jupyterlab
+  - pip
+  - python=3
+  - pandas
+  - scikit-learn
